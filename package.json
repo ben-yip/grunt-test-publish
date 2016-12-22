@@ -1,7 +1,7 @@
 {
   "name": "grunt-test-publish",
-  "description": "The best Grunt plugin ever.",
-  "version": "0.1.1",
+  "description": "For testing 'npm publish' machanism..",
+  "version": "0.1.2",
   "homepage": "https://github.com/ben-yip/grunt-test-publish",
   "author": {
     "name": "BenYip",
